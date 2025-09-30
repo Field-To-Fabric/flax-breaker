@@ -2,6 +2,8 @@
 Flax Breaker
 
 ## Parts List (UK)
+Note the Bearing Boys site seems not to like links, so you need to copy/paste the url.
+
 - Single taperlock pulley: https://www.bearingboys.co.uk/SPA-Section-Cast-Iron--Taper-Lock/SPA10611610-Dunlop-Taperlock-V-Pulley-4251-p
 - Double taperlock pulley: https://www.bearingboys.co.uk/SPA-Section-Cast-Iron--Taper-Lock/SPA10621610-Dunlop-Taperlock-V-Pulley-4252-p)
 - V-Belt: https://www.bearingboys.co.uk/A-Belts-13mm-x-8mm/A28-Dunlop-V-Belt--106-p
