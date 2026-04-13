@@ -1,7 +1,21 @@
 # flax-breaker
 Flax Breaker
 
-## Parts List (UK)
+## Version 2
+
+Since publishing the manual for Version 1 we have been working on some improvements.
+
+We will try to build an axle support using only extrusion bar on the bottom and a combination of plywood and 38x63mm studwork timber, here is a rough sketch:
+
+![Sketch of axle support](./img/axle_support_sketch_v2.jpg)
+
+This will save on expensive 60x60 aluminium extrusion and be easier to build and adjust. Note the threaded rod that is placed between adjacent support to tension the chain. We will also switch from using a v-belt to using an O8B1 chain. 
+
+The pressure on the spring will be provided by a winged bolt fastened into a threaded insert.
+
+## Version 1
+
+### Parts List (UK)
 Note the Bearing Boys site seems not to like links, so you need to copy/paste the url.
 
 - Single taperlock pulley: https://www.bearingboys.co.uk/SPA-Section-Cast-Iron--Taper-Lock/SPA10611610-Dunlop-Taperlock-V-Pulley-4251-p
