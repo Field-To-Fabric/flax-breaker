@@ -13,6 +13,33 @@ This will save on expensive 60x60 aluminium extrusion and be easier to build and
 
 The pressure on the spring will be provided by a winged bolt fastened into a threaded insert.
 
+Layout of the breaker and rollers:
+
+<img src="./img/breaker-layout-top.jpg" width=800>
+
+### Parts List (UK)
+
+- Motor (1500W ebike rear hub conversion kit with freehweel)
+- 48V 1500W power supply
+- 2 x 1000mm 60x60 aluminium extrusion (heavy version)
+- 2 x 600mm 60x60 aluminium extrusion (heavy version)
+- 20 x 60x60 backet (4 with fixings included)
+- 30 x M8 T-nut     
+- Plywood
+- Stud timber
+- Transmission (sprokets, chain, taperlock)
+- Springs
+- Hardware (threaded rods, nuts, bolts)
+  - M8 flanged nut
+  - M8 bolts
+    - 12 x 20mm for angle bracket to frame connections
+    - 12 x 22mm for plywood connections to frame
+- Bearings
+
+For the rollers:
+- 2 sheets 18mm plywood
+
+
 ## Version 1
 
 ### Parts List (UK)
