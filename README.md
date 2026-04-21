@@ -17,6 +17,10 @@ Layout of the breaker and rollers:
 
 <img src="./img/breaker-layout-top.jpg" width=800>
 
+There are two transmission mechanisms, one from the motor to the central axle, and one from the central axle to the two others. All transmissions are with 08B1 chain.
+
+<img src="./img/transmission.jpg" width=800>
+
 ### Parts List (UK)
 
 - Motor (1500W ebike rear hub conversion kit with freehweel)
