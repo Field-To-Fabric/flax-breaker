@@ -9,6 +9,11 @@ We will try to build an axle support using only extrusion bar on the bottom and 
 
 ![Sketch of axle support](./img/axle_support_sketch_v2.jpg)
 
+Here are measurements for the construction of the axle support. Note that the transmission sprocket sits in-front of it, 
+outside of the extrusion frame.
+
+<img src="./img/axle-support-measurements.jpg" width=400>
+
 This will save on expensive 60x60 aluminium extrusion and be easier to build and adjust. Note the threaded rod that is placed between adjacent support to tension the chain. We will also switch from using a v-belt to using an O8B1 chain. 
 
 The pressure on the spring will be provided by a winged bolt fastened into a threaded insert.
@@ -26,6 +31,11 @@ There are two transmission mechanisms, one from the motor to the central axle, a
 **Motor** 
 - Motor (1500W ebike rear hub conversion kit with freehweel)
 - 48V 1500W power supply
+- Stop button
+- Waterproof boxes for the electrics
+- electric cables
+- fuses
+
 
 **Frame**
 - 2 x 1000mm 60x60 aluminium extrusion (heavy version)
@@ -36,31 +46,42 @@ There are two transmission mechanisms, one from the motor to the central axle, a
 - Stud timber
 
 **Transmission**
+
 For the motor:
+
 - 20 teeth 08B1 Roller Chain Simplex Sprocket ([Bearing Boys](https://www.bearingboys.co.uk/08B1-12inch-Simplex-Sprockets/4120-Roller-Chain-Sprocket-6155-p))
 - 1610 taperlock bush, 40mm bore size ([Bearing Boys](https://www.bearingboys.co.uk/1610-Taper-Bushes/161040-Taper-Bush-Dunlop-2316-p))
 - 95 teeth 08B1 Roller Chain Spimplex Sprocket ([Bearing Boys](https://www.bearingboys.co.uk/08B1-12inch-Simplex-Sprockets/4195-Roller-Chain-Sprocket-6213-p))
 - 2012 taperlock bush, 1 inch bore ([Bearing Boys](https://www.bearingboys.co.uk/2012-Taper-Bushes/20121-Taper-Bush-Dunlop-2373-p))
 
 For the rollers:
+
 - 4 x 30 teeth 08B1 Roller Chain Simplex Sprocket ([Bearing Boys](https://www.bearingboys.co.uk/08B1-12inch-Simplex-Sprockets/4130-Roller-Chain-Sprocket-6195-p))
 - 4 x 2012 taperlock bush, 1 inch bore ([Bearing Boys](https://www.bearingboys.co.uk/2012-Taper-Bushes/20121-Taper-Bush-Dunlop-2373-p))
 - 5m 08B1 chain
 - 2 simplex connecting links
-
 - 6 x 4 bolt square flanged bearing, 1 inch bore ([Bearing Boys](https://www.bearingboys.co.uk/4-Bolt-Flanged-Bearings/UCF213-Dunlop-4-Bolt-Square-Flanged-Bearing-with-65mm-Bearing-Insert-96630-p))
 
 **Hardware**
-- Springs
+
+- 6 x Springs 25mm hole diamter, 63.5mm Free length, 50N/mm([Lee Spring](https://www.leespring.co.uk/product/compression-spring-lhl1000b06-oil-tempered-chrome-silicon))
 - Hardware (threaded rods, nuts, bolts)
-  - M8 flanged nut
   - M8 bolts
     - 12 x 20mm for angle bracket to frame connections
     - 12 x 22mm for plywood connections to frame
+  - 12 x Self tapping threaded inserts for wood M8, 25mm length ([Accu](https://www.accu.co.uk/threaded-inserts-for-wood/649069-HCSTIF-M8-25-14-5-BZP))
+  - 12 x M8 Wing bolt, 60mm (aka wing screw) ([Accu](https://www.accu.co.uk/wing-screws/67321-SWI-M8-60-A2))
+  - 1m M8 threaded rod
+  - 8 x M8 flanged nut (or nut + washer) ([Accu](https://www.accu.co.uk/metric-flanged-hexagon-nuts/409654-HFFN-M8-A2))
+  - 6mm screws
+  - 12 x M8 bolt 50mm 
+  - 12 x M8 lock nut
+  - 
 - Bearings
 
-**Rollers*
+**Rollers** 
 - 2 sheets 18mm plywood
+- 48 x 4.8mm phillips wood screws 100mm 
 
 
 ## Version 1
