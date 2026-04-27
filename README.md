@@ -70,7 +70,7 @@ For the rollers:
     - 12 x 20mm for angle bracket to frame connections
     - 12 x 22mm for plywood connections to frame
   - 12 x Self tapping threaded inserts for wood M8, 25mm length ([Accu](https://www.accu.co.uk/threaded-inserts-for-wood/649069-HCSTIF-M8-25-14-5-BZP))
-  - 12 x M8 Wing bolt, 60mm (aka wing screw) ([Accu](https://www.accu.co.uk/wing-screws/67321-SWI-M8-60-A2))
+  - 12 x M8 Wing bolt, 60mm (aka wing screw) ([Accu](https://www.accu.co.uk/wing-screws/67321-SWI-M8-60-A2)) (or just m8 bolt)
   - 1m M8 threaded rod
   - 8 x M8 flanged nut (or nut + washer) ([Accu](https://www.accu.co.uk/metric-flanged-hexagon-nuts/409654-HFFN-M8-A2))
   - 6mm screws
