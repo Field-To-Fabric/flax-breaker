@@ -29,7 +29,7 @@ There are two transmission mechanisms, one from the motor to the central axle, a
 ### Parts List (UK)
 
 **Motor** 
-- Motor (1500W ebike rear hub conversion kit with freehweel)
+- Motor (1500W ebike rear hub conversion kit with freehweel) ([Amazon](https://www.amazon.co.uk/dp/B0F4MY23LT?ref=ppx_yo2ov_dt_b_fed_asin_title))
 - 48V 1500W power supply
 - Stop button
 - Waterproof boxes for the electrics
@@ -53,6 +53,7 @@ For the motor:
 - 1610 taperlock bush, 40mm bore size ([Bearing Boys](https://www.bearingboys.co.uk/1610-Taper-Bushes/161040-Taper-Bush-Dunlop-2316-p))
 - 95 teeth 08B1 Roller Chain Spimplex Sprocket ([Bearing Boys](https://www.bearingboys.co.uk/08B1-12inch-Simplex-Sprockets/4195-Roller-Chain-Sprocket-6213-p))
 - 2012 taperlock bush, 1 inch bore ([Bearing Boys](https://www.bearingboys.co.uk/2012-Taper-Bushes/20121-Taper-Bush-Dunlop-2373-p))
+- 14 teeth 08B1 Roller Chain Simplex Sprocket ([Bearing Boys]())
 
 For the rollers:
 
@@ -82,6 +83,7 @@ For the rollers:
 **Rollers** 
 - 2 sheets 18mm plywood
 - 48 x 4.8mm phillips wood screws 100mm 
+- 24 x 200mm mild steel rod
 
 
 ## Version 1
