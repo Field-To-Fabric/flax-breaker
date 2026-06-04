@@ -5,26 +5,30 @@ Flax Breaker
 
 Since publishing the manual for Version 1 we have been working on some improvements.
 
-We will try to build an axle support using only extrusion bar on the bottom and a combination of plywood and 38x63mm studwork timber, here is a rough sketch:
+Axle holder:
 
-![Sketch of axle support](./img/axle_support_sketch_v2.jpg)
+<img src="./img/AxleHolder.jpg" width=800>
 
-Here are measurements for the construction of the axle support. Note that the transmission sprocket sits in-front of it, 
-outside of the extrusion frame.
+Measurements for the construction of the axle support. Note that the transmission sprocket sits in-front of it, outside of the extrusion frame. Top block (3) is placed 40mm below the top of the plywood backing.
 
-<img src="./img/axle-support-measurements.jpg" width=400>
+<img src="./img/AxleHolderFront.jpg" width=400>
 
-This will save on expensive 60x60 aluminium extrusion and be easier to build and adjust. Note the threaded rod that is placed between adjacent support to tension the chain. We will also switch from using a v-belt to using an O8B1 chain. 
 
-The pressure on the spring will be provided by a winged bolt fastened into a threaded insert.
+The pressure on the spring will be provided by two M8 bolts fastened into a threaded insert. Be sure the M8 bolt penetrate into the bottom wooden block to ensure it cannot spring out. Place flanged nuts and washers on the M8 bolts to enable them to apply pressure to the bottom wooden block.
 
 Layout of the breaker and rollers:
 
 <img src="./img/breaker-layout-top.jpg" width=800>
 
+For transmission we switch from using a v-belt to using an O8B1 chain. 
+
 There are two transmission mechanisms, one from the motor to the central axle, and one from the central axle to the two others. All transmissions are with 08B1 chain.
 
 <img src="./img/transmission.jpg" width=800>
+
+Table:
+
+<img src="./img/Table.jpg" width=800>
 
 ### Parts List (UK)
 
@@ -74,17 +78,16 @@ For the rollers:
 - 6 x Springs 25mm hole diamter, 63.5mm Free length, 50N/mm([Lee Spring](https://www.leespring.co.uk/product/compression-spring-lhl1000b06-oil-tempered-chrome-silicon))
 - Hardware (threaded rods, nuts, bolts)
   - M8 bolts
-    - 12 x 20mm for angle bracket to frame connections
-    - 12 x 22mm for plywood connections to frame
+    - 12 x 25mm for angle bracket to frame connections
+    - 12 x 30mm for plywood connections to frame
   - 12 x Self tapping threaded inserts for wood M8, 25mm length ([Accu](https://www.accu.co.uk/threaded-inserts-for-wood/649069-HCSTIF-M8-25-14-5-BZP))
-  - 12 x M8 Wing bolt, 60mm (aka wing screw) ([Accu](https://www.accu.co.uk/wing-screws/67321-SWI-M8-60-A2)) (or just m8 bolt)
+  - 12 x M8 bolt, 80mm (aka wing screw) ([Accu](https://www.accu.co.uk/wing-screws/67321-SWI-M8-60-A2)) (or just m8 bolt)
   - 1m M8 threaded rod
   - 8 x M8 flanged nut (or nut + washer) ([Accu](https://www.accu.co.uk/metric-flanged-hexagon-nuts/409654-HFFN-M8-A2))
   - 6mm screws
   - 12 x M8 bolt 50mm 
   - 12 x M8 lock nut
-  - 
-- Bearings
+  - 6 x 1 inch bore shaft collars
 
 **Rollers** 
 - 2 sheets 18mm plywood
