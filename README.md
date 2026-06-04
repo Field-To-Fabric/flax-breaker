@@ -11,7 +11,7 @@ Axle holder:
 
 Measurements for the construction of the axle support. Note that the transmission sprocket sits in-front of it, outside of the extrusion frame. Top block (3) is placed 40mm below the top of the plywood backing.
 
-<img src="./img/AxleHolderFront.jpg" width=400>
+<img src="./img/AxleHolderFront.jpg" width=800>
 
 
 The pressure on the spring will be provided by two M8 bolts fastened into a threaded insert. Be sure the M8 bolt penetrate into the bottom wooden block to ensure it cannot spring out. Place flanged nuts and washers on the M8 bolts to enable them to apply pressure to the bottom wooden block.
